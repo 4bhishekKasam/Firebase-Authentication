@@ -1,12 +1,12 @@
-Step 1
+SignUp page
 <p align="center">
   <img src="https://github.com/4bhishekKasam/Firebase-Authentication/blob/master/fb1.PNG"  width="800"/>
  </p>
-Step 2
+SignIn page
 <p align="center">
   <img src="https://github.com/4bhishekKasam/Firebase-Authentication/blob/master/fb2.PNG"  width="800"/>
  </p>
-Step 3
+Dashboard
 <p align="center">
   <img src="https://github.com/4bhishekKasam/Firebase-Authentication/blob/master/fb3.PNG"  width="800"/>
  </p>
